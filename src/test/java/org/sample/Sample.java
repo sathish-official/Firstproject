@@ -40,8 +40,8 @@ public class Sample extends BaseClass{
 		WebElement row = rows.get(i);
 		System.out.println(row.getText());
 		System.out.println("hi how are you");
-		
-		
+		System.out.println("hi");
+
 	}
 	
 	}
